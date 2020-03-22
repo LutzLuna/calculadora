@@ -7,6 +7,7 @@ public class calculadora {
 	// agrego suma
 	resultado = numA + numB;
         System.out.println(suma(numA, numB));
+        System.out.println("esto debe servir");
 
     }
 }
