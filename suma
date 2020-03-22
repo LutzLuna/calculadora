@@ -6,4 +6,5 @@ private String class suma {
 	resultado = numA + numB;
         //System.out.println("El resultado de la suma es : ", resultado);
         return cadena = "El resultado de la suma es : ", resultado;
+        System.out.println("Sólo el cambio de la segunda rama);
 }
