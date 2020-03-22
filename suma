@@ -1,0 +1,9 @@
+private String class suma {
+    String cadena = "";
+     int resultado;
+    
+     // agrego suma
+	resultado = numA + numB;
+        //System.out.println("El resultado de la suma es : ", resultado);
+        return cadena = "El resultado de la suma es : ", resultado;
+}

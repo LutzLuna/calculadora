@@ -1,0 +1,12 @@
+public class calculadora {
+    public static void main(String[] args) {
+	int numA = 10;
+	int numB = 20;
+    int resultado = 0; 
+
+	// agrego suma
+	resultado = numA + numB;
+        System.out.println(suma(numA, numB));
+
+    }
+}
